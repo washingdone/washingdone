@@ -1,7 +1,7 @@
 # Marceline DeVaughan
 
 ## Current
-I am a junior working on a bachelors in Computer Science.
+I am a junior working on a bachelors in Computer Science at Northwest Missouri State University.
 
 ## Background
 I am from St. Louis, Missouri, and have had an interest in code since a young age, starting my first hobby projects in middle school. In high school I attended a technical program where I had the honor of competing in the SkillsUSA Web Design and Development challenge, earning a national goal medal. I have also recieved a Microsoft certification in Web Development and worked on several personal and group projects, including a bot for Discord that served hundreds of thousands of users at its peak.
